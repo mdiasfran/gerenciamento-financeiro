@@ -9,7 +9,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134b4ae9-78dc-41c2-b93d-94a3138b31be" name="Changes" comment="" />
+    <list default="true" id="134b4ae9-78dc-41c2-b93d-94a3138b31be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GerenciamentoFinanceiro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GerenciamentoFinanceiro/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/ref/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/ref/GerenciamentoFinanceiro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/refint/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/refint/GerenciamentoFinanceiro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,40 +41,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2xHX3IV3q9FDTeaAxWlezkqS3os" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.GerenciamentoFinanceiro: IIS Express.executor": "Debug",
-    ".NET Launch Settings Profile.GerenciamentoFinanceiro: https.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "dotNetConsole",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.GerenciamentoFinanceiro: IIS Express.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.GerenciamentoFinanceiro: https.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dotNetConsole&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\fran\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\fran\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\fran\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\fran\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\fran\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\fran\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.GerenciamentoFinanceiro: https">
     <configuration name="GerenciamentoFinanceiro: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/GerenciamentoFinanceiro/GerenciamentoFinanceiro.csproj" />
@@ -110,13 +131,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747595773058</updated>
-      <workItem from="1747595774139" duration="12938000" />
+      <workItem from="1747595774139" duration="15743000" />
+      <workItem from="1747768825058" duration="3728000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

@@ -442,3 +442,4 @@ C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\Gerenc
 C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\GerenciamentoFinanceiro\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\GerenciamentoFinanceiro\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\GerenciamentoFinanceiro\obj\Debug\net8.0\GerenciamentoFinanceiro.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\GerenciamentoFinanceiro\obj\Debug\net8.0\GerenciamentoFinanceiro.sourcelink.json
