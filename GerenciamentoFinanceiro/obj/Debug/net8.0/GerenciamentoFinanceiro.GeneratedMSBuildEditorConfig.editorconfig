@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\fran\Desktop\reparticao\estudo\cris-tech\GerenciamentoFinanceiro\GerenciamentoFinanceiro
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/fran/Desktop/reparticao/estudo/cris-tech/GerenciamentoFinanceiro/GerenciamentoFinanceiro/Views/Home/AdicionarTransacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGljaW9uYXJUcmFuc2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fran/Desktop/reparticao/estudo/cris-tech/GerenciamentoFinanceiro/GerenciamentoFinanceiro/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
