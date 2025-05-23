@@ -10,24 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134b4ae9-78dc-41c2-b93d-94a3138b31be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Models/RegistrosFinanceiros.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Views/Home/AdicionarCategoria.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GerenciamentoFinanceiro/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GerenciamentoFinanceiro/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/Models/Categoria.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Models/Categoria.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/bin/Debug/net8.0/GerenciamentoFinanceiro.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/GerenciamentoFinanceiro.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/ref/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/ref/GerenciamentoFinanceiro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/refint/GerenciamentoFinanceiro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/Debug/net8.0/refint/GerenciamentoFinanceiro.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/GerenciamentoFinanceiro.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GerenciamentoFinanceiro/obj/project.assets.json" afterDir="false" />
@@ -140,7 +127,8 @@
       <updated>1747595773058</updated>
       <workItem from="1747595774139" duration="15743000" />
       <workItem from="1747768825058" duration="3728000" />
-      <workItem from="1747837702346" duration="22042000" />
+      <workItem from="1747837702346" duration="22152000" />
+      <workItem from="1747965018596" duration="3308000" />
     </task>
     <servers />
   </component>

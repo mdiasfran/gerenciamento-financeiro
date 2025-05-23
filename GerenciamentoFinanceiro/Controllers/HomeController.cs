@@ -87,6 +87,57 @@ public class HomeController : Controller
         return View(categoria);
     }
 
+    public IActionResult SomatoriaValores()
+    {
+        var resultados = from g in _context.Financas
+                .Include(x => x.Categoria)
+                .Include(x => x.Transacao)
+                .ToList()
+            group g by new { g.CategoriaId }
+            into total
+            select new
+            {
+                CategoriaNome = total.First().Categoria.Nome,
+                TransacaoNome = total.First().Transacao.Nome,
+                DataOperacao = total.First().DataOperacao,
+                Total = total.Sum(c => c.Valor),
+            };
+
+        var ganhos = _context.Financas
+            .Include(x => x.Categoria)
+            .Include(x => x.Transacao)
+            .Where(x => x.TransacaoId == "ganho")
+            .Sum(x => x.Valor);
+
+        var gastos = _context.Financas
+            .Include(x => x.Categoria)
+            .Include(x => x.Transacao)
+            .Where(x => x.TransacaoId == "gasto")
+            .Sum(x => x.Valor);
+
+        var diferenca = ganhos - gastos;
+
+        List<RegistrosFinanceiros> registros = new List<RegistrosFinanceiros>();
+
+        foreach (var resultado in resultados)
+        {
+            var registro = new RegistrosFinanceiros()
+            {
+                CategoriaNome = resultado.CategoriaNome,
+                TransacaoNome = resultado.TransacaoNome,
+                DataOperacao = resultado.DataOperacao.ToString("dd/MM/yyyy"),
+                ValorCategoria = resultado.Total.ToString("C"),
+                Ganhos = ganhos.ToString("C"),
+                Gastos = gastos.ToString("C"),
+                Diferenca = diferenca.ToString("C")
+            };
+
+            registros.Add(registro);
+        }
+
+        return View(registros);
+    }
+
     [HttpPost]
     public IActionResult Filtrar(string[] filtro)
     {
